@@ -15,6 +15,15 @@ Free while in beta. Early testers will get a founder's discount when it goes pai
 - **Audio:** a mixer with faders, meters, mute, solo and auto audio that follows Program.
 - **Output:** record to a file, stream over RTMP or SRT, and send Program or a MultiView to another display.
 
+## Not yet
+Switchyard doesn't do these yet. If you need one, say so in [Discussions](../../discussions), because requests decide what comes next.
+
+- NDI input and output
+- Remote guests
+- PTZ camera control
+- Control from Stream Deck or a control API
+- ATEM switcher control
+
 ## Screenshots
 
 **The main window**
