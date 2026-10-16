@@ -2,6 +2,8 @@
 
 **A live video switcher for the Mac.** Bring in cameras, capture cards, video files, web pages, streams and graphics, line the next shot up in Preview, send it to Program, and stream or record the result.
 
+Free while in beta. Early testers will get a founder's discount when it goes paid.
+
 ![Switchyard running a live show](screenshots/1-main.jpg)
 
 ## What it does
