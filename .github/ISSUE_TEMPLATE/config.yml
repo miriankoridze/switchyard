@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and show your setup
+    url: https://github.com/miriankoridze/switchyard/discussions
+    about: Ask how to do something, or share how you use Switchyard.
+  - name: Email
+    url: mailto:feedback@koridze.com
+    about: Write privately to the developer.

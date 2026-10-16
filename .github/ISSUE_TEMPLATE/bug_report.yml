@@ -1,0 +1,46 @@
+name: Bug report
+description: Something in Switchyard doesn't work as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: Does it happen every time?
+      options:
+        - Every time
+        - Sometimes
+        - Only once so far
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Switchyard version
+      description: Settings → About
+      placeholder: "0.1.3"
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model and macOS version
+      placeholder: "MacBook Pro M3 Pro, macOS 15.4"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Capture card, camera or source involved
+      placeholder: "UltraStudio Recorder 3G, SRT input, web page…"
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot or screen recording
+      description: Drag files here if you can. They help most.

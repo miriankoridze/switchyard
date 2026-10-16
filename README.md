@@ -2,6 +2,10 @@
 
 **A live video switcher for the Mac.** Bring in cameras, capture cards, video files, web pages, streams and graphics, line the next shot up in Preview, send it to Program, and stream or record the result.
 
+**Status:** public beta (0.1.x), built by one person. Expect rough edges, and please tell me about them.
+
+Free while in beta. Early testers will get a founder's discount when it goes paid.
+
 ![Switchyard running a live show](screenshots/1-main.jpg)
 
 ## What it does
@@ -44,7 +48,7 @@ Get the latest `Switchyard-<version>.dmg` from **[Releases](../../releases/lates
 Switchyard checks for new versions once a day and from **Switchyard → Check for Updates…**. It asks before installing, and never checks while you record or stream.
 
 ## Feedback and ideas
-Switchyard is shaped by the people who use it. Write to **feedback@koridze.com**, and please do:
+Switchyard is shaped by the people who use it. Share ideas, ask questions and show your setup in **[Discussions](../../discussions)**, or write to **feedback@koridze.com**. Either way, please do:
 
 - **Suggest what you want to see.** A feature, a source or output you need, something that would make your show easier. Describe what you are trying to do, not only the feature; real examples help most.
 - **Report bugs, with details.** Tell me what you did, what you expected and what happened instead, and whether it happens every time. Please include:
